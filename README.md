@@ -40,10 +40,10 @@ The proposed solution includes:
 * Full-stack deployment using Flask and Heroku
 
 🔗 **GitHub Repository**
-[[https://github.com/lingabalaji17/SentimentBasedProductRecommendation](https://github.com/lingabalaji17/SentimentBasedProductRecommendation)](https://github.com/Pranay8070/Sentiment-Based-Product-Recommendation-System)
+(https://github.com/Pranay8070/Sentiment-Based-Product-Recommendation-System)
 
 🔗 **Live Application (Heroku)**
-[[https://senti-product-recommendation.herokuapp.com/](https://senti-product-recommendation.herokuapp.com/)](https://sentiment8070-562abb5d278e.herokuapp.com/)
+(https://sentiment8070-562abb5d278e.herokuapp.com/)
 
 ---
 
